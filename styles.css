@@ -16,3 +16,11 @@ p {
     text-align: center;
     padding: 10px 0;
 }
+
+iframe {
+    display: flex;
+    margin: auto;
+    height: 500px;
+    width: 1000px;
+    border: none;
+}
